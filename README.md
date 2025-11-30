@@ -1,4 +1,5 @@
 # ✨ ClippyFM — Your macOS Clipboard, Reimagined
+v1.3 now available!
 
 <p align="center">
   <img src="Screenshots/cover-image.png" alt="ClippyFM — Free clipboard for macOS" width="900" />
